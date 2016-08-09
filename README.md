@@ -1,2 +1,3 @@
 # hello-world
-My first learning
+
+My new world and excitment of learning GITHUB
